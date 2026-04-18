@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+loans:
+  message: "welcome to loans qa instance"
+  contactDetails:
+    name: "sannidhi - qa POC"
+    email: "Shetty@gmail.com"
+  onCallSupport:
+    -(555)555-1234
+    -(555)555-4321

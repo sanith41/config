@@ -1,0 +1,13 @@
+
+
+build:
+    version: "1.0"
+
+accounts:
+    message: "welcome to accounts related micro services"
+    contactDetails:
+        name: "sanith shetty - Developer"
+        email: "Shetty@gmail.com"
+    onCallSupport:
+        -(555)555-1234
+        -(555)555-4321
