@@ -7,7 +7,7 @@ accounts:
   message: "welcome to accounts Prod instance"
   contactDetails:
     name: "sannidhi - Prod POC"
-    email: "Shetty@gmail.com"
+    email: "{cipher}a36d6f55b41dd690efb97ce7f2bb98cb10bcf3fede3d5ecde3e79f5a1e87287dc35de23d2d086b78ff14223512e5a5e3"
   onCallSupport:
     -(555)555-1234
     -(555)555-4321
