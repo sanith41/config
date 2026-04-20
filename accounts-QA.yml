@@ -4,7 +4,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "welcome to accounts related QA instance testing for cloudbus"
+  message: "welcome to accounts related QA instance testing for quality assurance config of accounts"
   contactDetails:
     name: "new develperand qa resourse - QA POC"
     email: "Shetty@gmail.com"
