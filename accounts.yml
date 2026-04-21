@@ -1,10 +1,10 @@
 
 
 build:
-    version: "1.0"
+    version: "8.0"
 
 accounts:
-    message: "welcome to accounts related micro services"
+    message: "welcome to accounts related micro services from docker"
     contactDetails:
         name: "sanith shetty - Developer"
         email: "Shetty@gmail.com"
